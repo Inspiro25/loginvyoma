@@ -1,0 +1,15 @@
+.controllers
+.models
+.views
+.node_modules
+index.js
+package-lock.json
+package.json
+README.md
+.docker
+.public
+.routes
+.database
+.env
+.ENV
+.db
